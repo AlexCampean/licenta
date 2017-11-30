@@ -1,1 +1,1 @@
-# licenta
+# Proiect de licenta
